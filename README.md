@@ -80,7 +80,7 @@
    - Built a digital business card app with OTP verification, analytics, and Firebase integration.
 
 3. **POR Verification Portal**   
-   [POR Portal](bit.ly/por-portal) 
+   [POR Portal](https://swc.iitg.ac.in/por_portal) 
    - Streamlined verification for 5,000+ students at IIT Guwahati using React and Node.js.
 
 ---
