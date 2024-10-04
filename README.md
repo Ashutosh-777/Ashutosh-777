@@ -6,11 +6,16 @@
 ### <div align="center">Hi 👋, I'm Ashutosh Kumar, a final-year undergraduate student at IIT Guwahati.</div>  
   
 
-- 🔭 I’m currently working on [BondU](https://github.com/Ashutosh-777/BondU)  
-
+### 💻 **About Me**
+- 🎓 **B.Tech in Electronics and Electrical Engineering** from IIT Guwahati (8.07 CGPA, ongoing)
+- 💼 **Software Engineering Intern at Materate (May 2024 - July 2024)**
 - I'm fascinated by the intersection of software and hardware, and my experience spans mobile app development, web development, and backend services.  
-  
--💬 Ask me about Web & App Development
+- Developed **Digital Notebook** - a Kotlin-based Android app, integrating handwriting-to-text features and OpenAI GPT feedback.
+- 🚀 Passionate about building scalable and efficient applications for web and mobile, using modern tools like **Flutter**, **Kotlin**, and **React**.
+- 👥 **Core Team Member** of the Students' Web Committee at IIT Guwahati, leading a team of over 50 developers.
+- 🎯 Always looking for opportunities to innovate and contribute to open-source projects.
+- 🔭 I’m currently working on [BondU](https://github.com/Ashutosh-777/BondU)  
+- 💬 Ask me about Web & App Development
 
 <br/>  
 
@@ -18,7 +23,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh-777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-[trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh-777)]()
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
@@ -59,6 +67,31 @@
 
 <br/>  
 
+---
+
+### 🔧 **Projects**
+1. **OneStop - IITG Campus App**  
+   [Play Store](https://play.google.com/store/apps/details?id=com.swciitg.onestop2) | [App Store](https://apps.apple.com/in/app/onestop-iitg/id1642792642)  
+   - A Flutter-based app designed for 10,000+ students at IIT Guwahati.
+   - Added features like room booking, cab sharing, and home screen widgets.
+
+2. **Digital Business Card**  
+   [GitHub](https://github.com/Ashutosh-777/BondU)  
+   - Built a digital business card app with OTP verification, analytics, and Firebase integration.
+
+3. **POR Verification Portal**
+   [POR Portal](bit.ly/por-portal)
+   - Streamlined verification for 5,000+ students at IIT Guwahati using React and Node.js.
+
+---
+
+### 🏆 **Achievements**
+- 🥈 **Silver Medalist** at KRITI 2024, App Development
+- 🥈 **Silver Medalist** at KRITI 2023, App Development
+- 🌟 Secured **AIR 166** in NEST 2021 among 80K students
+- 🏅 **Hacktoberfest 2023**: Maintained a GitHub repository during the global open-source event
+
+---
 
 ## Connect with me  
 <div align="center">
