@@ -9,8 +9,7 @@
 ### 💻 **About Me**
 - 🎓 **B.Tech in Electronics and Electrical Engineering** from IIT Guwahati (8.07 CGPA, ongoing)
 - 💼 **Software Engineering Intern at Materate (May 2024 - July 2024)**
-- I'm fascinated by the intersection of software and hardware, and my experience spans mobile app development, web development, and backend services.  
-- Developed **Digital Notebook** - a Kotlin-based Android app, integrating handwriting-to-text features and OpenAI GPT feedback.
+- 🔥 I'm fascinated by the intersection of software and hardware, and my experience spans mobile app development, web development, and backend services.  
 - 🚀 Passionate about building scalable and efficient applications for web and mobile, using modern tools like **Flutter**, **Kotlin**, and **React**.
 - 👥 **Core Team Member** of the Students' Web Committee at IIT Guwahati, leading a team of over 50 developers.
 - 🎯 Always looking for opportunities to innovate and contribute to open-source projects.
@@ -69,18 +68,19 @@
 
 ---
 
-### 🔧 **Projects**
+### 🔧 **Some of my Projects**
 1. **OneStop - IITG Campus App**  
    [Play Store](https://play.google.com/store/apps/details?id=com.swciitg.onestop2) | [App Store](https://apps.apple.com/in/app/onestop-iitg/id1642792642)  
    - A Flutter-based app designed for 10,000+ students at IIT Guwahati.
-   - Added features like room booking, cab sharing, and home screen widgets.
+   - Added features like room booking, cab sharing, and native home screen widgets.
+   - Implemented Caching to improve inApp performances
 
 2. **Digital Business Card**  
    [GitHub](https://github.com/Ashutosh-777/BondU)  
    - Built a digital business card app with OTP verification, analytics, and Firebase integration.
 
-3. **POR Verification Portal**
-   [POR Portal](bit.ly/por-portal)
+3. **POR Verification Portal**   
+   [POR Portal](bit.ly/por-portal) 
    - Streamlined verification for 5,000+ students at IIT Guwahati using React and Node.js.
 
 ---
