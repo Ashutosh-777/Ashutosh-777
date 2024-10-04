@@ -16,18 +16,18 @@
 - 🔭 I’m currently working on [BondU](https://github.com/Ashutosh-777/BondU)  
 - 💬 Ask me about Web & App Development
 
-<br/>  
+---
 
-## Github Stats  
+### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh-777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+--- 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh-777)]()
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="100%">
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -64,8 +64,6 @@
 </div>
 </td></tr></table>  
 
-<br/>  
-
 ---
 
 ### 🔧 **Some of my Projects**
@@ -93,7 +91,7 @@
 
 ---
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/Ashutosh-777" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,9 +104,8 @@
 </a>  
 </div>  
   
-<br/>  
+---  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ashutosh-777&&style=flat-square" align="center" />
 </div>  
-<br/>  
