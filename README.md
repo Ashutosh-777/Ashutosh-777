@@ -18,7 +18,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh-777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
