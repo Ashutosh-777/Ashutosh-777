@@ -7,10 +7,10 @@
   
 
 - 🔭 I’m currently working on [BondU](https://github.com/Ashutosh-777/BondU)  
-  
 
-- I'm fascinated by the intersection of software and hardware, and my experience spans across mobile app development, web development, and backend services.  
+- I'm fascinated by the intersection of software and hardware, and my experience spans mobile app development, web development, and backend services.  
   
+-💬 Ask me about Web & App Development
 
 <br/>  
 
@@ -18,6 +18,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh-777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+![trophy](https://github-profile-trophy.vercel.app/?username=ashutosh-777)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
