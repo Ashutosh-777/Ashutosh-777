@@ -1,5 +1,4 @@
 <div align="right">
-<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" align="right" style="width: 25%" />
 </div>  
   
 
